@@ -7,6 +7,7 @@ function setup() {
 }
 
 function draw() {
+  for (let i=0;i<50;i++) {
   stroke(255);
   text(counter,10,10);
   let r=floor(random(3));
@@ -34,4 +35,5 @@ function draw() {
   strokeWeight(4);
   point(point1.x,point1.y);
   counter++;
+  }
 }

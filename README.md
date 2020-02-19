@@ -1,3 +1,5 @@
 # Chaos-Game
 
-# Just a Chaos Game pattern written in p5js library
+![](Chaos-Game.gif)
+
+⋅⋅⋅ A Chaos Game pattern written in p5js library
